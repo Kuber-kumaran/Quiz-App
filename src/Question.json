@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 3,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": 4,
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "NaCl", "CH4"],
+      "answer": "H2O"
+    },
+    {
+      "id": 5,
+      "question": "What year did the Titanic sink?",
+      "options": ["1912", "1905", "1923", "1917"],
+      "answer": "1912"
+    }
+  ]
